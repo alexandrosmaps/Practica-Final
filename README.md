@@ -15,4 +15,7 @@ El visor permet activar i desactivar totes tres capes i canviar entre dos tipolo
 
 Alhora el buscador permet cercar preus concrets i de manera aleatòria localitza un dels allotjaments de qualsevol tipologia amb aquell preu. La meva intenció era aconseguir buscar entre dos camps alhora, PREU i TIPUS d'Habitació, però no me n'he sortit de moment i com la meva intenció és fer el Treball de Final de Màster sobre aquesta temàtica, ho deixo per més endavant.
 
+El visor:
+Airbnbbcn.html
+
 Àlex Cubells i Barrfuet
